@@ -1,0 +1,27 @@
+{
+  "name": "boneio",
+  "version": "0.0.0",
+  "description": "A test app for bone.io",
+  "main": "index.js",
+  "dependencies": {
+    "bone.io": "^0.8.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bloodyaugust/boneiotest.git"
+  },
+  "keywords": [
+    "test",
+    "bone.io"
+  ],
+  "author": "Greyson Richey",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/Bloodyaugust/boneiotest/issues"
+  },
+  "homepage": "https://github.com/Bloodyaugust/boneiotest"
+}
